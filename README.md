@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi, I'm Simon 👋
 
-<!--
-**s1mon-sudo/s1mon-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring software developer from Germany 🇩🇪 with a strong passion for coding and building real projects.  
+I enjoy turning ideas into working software and continuously improving my skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I do
+- Develop software and learn new programming languages  
+- Build my own projects from scratch  
+- Focus on clean, structured and logical solutions  
+
+---
+
+### 🚀 Current focus
+- 🎮 Developing my own game using Unity (C#)  
+- 📚 Expanding my knowledge in C++ and web development (HTML/CSS)  
+- 🐍 Starting to learn Python  
+
+---
+
+### 🛠️ Tech stack
+`C#` `C++` `HTML` `CSS` `Unity`
+
+---
+
+### 📈 Goals
+- Improve my software development skills every day  
+- Learn new technologies and programming languages  
+- Build larger and more complex projects  
+
+---
+
+> Always learning. Always building. 🚀
