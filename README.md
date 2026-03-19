@@ -1,6 +1,6 @@
 ## Hi, I'm Simon 👋
 
-I'm an aspiring software developer from Germany 🇩🇪 with a strong passion for coding and building real projects.  
+I'm 18 and a aspiring software developer from Germany 🇩🇪 with a strong passion for coding and building real projects.  
 I enjoy turning ideas into working software and continuously improving my skills.
 
 ---
